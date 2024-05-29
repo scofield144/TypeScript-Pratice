@@ -1,0 +1,29 @@
+{
+  "editor.defaultColorDecorators": false,
+  "workbench.colorTheme": "Min Dark",
+  "workbench.preferredDarkColorTheme": "Min Dark",
+  "workbench.preferredHighContrastColorTheme": "Min Dark",
+  "window.autoDetectColorScheme": false,
+  "debug.enableStatusBarColor": true,
+  "explorer.decorations.colors": true,
+  "peacock.affectSideBarBorder": true,
+  "C_Cpp.enhancedColorization": "disabled",
+  "editor.colorDecoratorsActivatedOn": "click",
+  "editor.experimentalInlineEdit.backgroundColoring": true,
+  "editor.colorDecorators": false,
+  "workbench.colorCustomizations": {
+    "sideBar.background": "#000000",
+    "panel.background": "#000000",
+    "editorGroupHeader.tabsBackground": "#000000",
+    "tab.inactiveBackground": "#000000",
+    "tab.activeBackground": "#000000",
+    "editor.background": "#000000",
+    "terminal.background": "#000000",
+    "peekViewEditor.background": "#000000",
+    "dropdown.background": "#000000",
+    "list.activeSelectionBackground": "#000000",
+    "list.inactiveSelectionBackground": "#000000",
+    "editorLineNumber.activeForeground": "#ffffff",
+    "editorLineNumber.foreground": "#888888"
+  }
+}
