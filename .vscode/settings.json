@@ -1,5 +1,5 @@
 {
-  "editor.defaultColorDecorators": false,
+  "editor.defaultColorDecorators": "never",
   "workbench.colorTheme": "Min Dark",
   "workbench.preferredDarkColorTheme": "Min Dark",
   "workbench.preferredHighContrastColorTheme": "Min Dark",
